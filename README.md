@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. *Clone the Repository*:
    bash
-   git clone https://github.com/Wasim-Aly/Burushaski_to_Chatbot.git
+   git clone https://github.com/rohailrahmat/Burushaski_Chatbot_Capstone_Project/tree/main)
    
 
 2. *Navigate to the Project Directory*:
